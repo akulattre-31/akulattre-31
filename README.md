@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF1A1A,100:8B0000&height=210&section=header&text=Akul%20Attre&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%40%20IIT%20Madras%20%E2%80%A2%20Co-Founder%20%40%20QuantHunt&descAlignY=58&descSize=18" />
+<img src="./assets/hell-banner.svg" width="100%" alt="Akul Attre — hellfire banner" />
 
 <a href="https://github.com/akulattre-31">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FF1A1A&center=true&vCenter=true&width=720&lines=%F0%9F%8F%86+1st+in+India+%E2%80%94+Samsung+Solve+for+Tomorrow+2026;%F0%9F%94%90+Hunting+quantum-vulnerable+crypto+before+Q-Day;%F0%9F%9B%B8+Securing+drone+telemetry+with+ML+IDS;%F0%9F%A7%A0+Fraud+detection+that+explains+itself;%E2%9C%A8+Shipping+neon+liquid-glass+dashboards" alt="Typing SVG" />
