@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f5d4,100:9b5de5&height=210&section=header&text=Akul%20Attre&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%40%20IIT%20Madras%20%E2%80%A2%20Co-Founder%20%40%20QuantHunt&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF1A1A,100:8B0000&height=210&section=header&text=Akul%20Attre&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%40%20IIT%20Madras%20%E2%80%A2%20Co-Founder%20%40%20QuantHunt&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/akulattre-31">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&width=720&lines=%F0%9F%8F%86+1st+in+India+%E2%80%94+Samsung+Solve+for+Tomorrow+2026;%F0%9F%94%90+Hunting+quantum-vulnerable+crypto+before+Q-Day;%F0%9F%9B%B8+Securing+drone+telemetry+with+ML+IDS;%F0%9F%A7%A0+Fraud+detection+that+explains+itself;%E2%9C%A8+Shipping+neon+liquid-glass+dashboards" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FF1A1A&center=true&vCenter=true&width=720&lines=%F0%9F%8F%86+1st+in+India+%E2%80%94+Samsung+Solve+for+Tomorrow+2026;%F0%9F%94%90+Hunting+quantum-vulnerable+crypto+before+Q-Day;%F0%9F%9B%B8+Securing+drone+telemetry+with+ML+IDS;%F0%9F%A7%A0+Fraud+detection+that+explains+itself;%E2%9C%A8+Shipping+neon+liquid-glass+dashboards" alt="Typing SVG" />
 </a>
 
 <a href="https://www.linkedin.com/in/akul-attre3105"><img src="https://img.shields.io/badge/LinkedIn-akul--attre3105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:quanthunt1@gmail.com"><img src="https://img.shields.io/badge/Email-quanthunt1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=akulattre-31&color=9b5de5&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="mailto:akulattre@gmail.com"><img src="https://img.shields.io/badge/Email-akulattre%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=akulattre-31&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 👾 `$ whoami`
 
-I'm **Akul**, 20, from Meerut by way of Lucknow and Delhi. I study **cybersecurity at IIT Madras** and I'm **co-founder of QuantHunt**, incubated at **FITT, IIT Delhi**.
+I'm **Akul**, 20. I study **cybersecurity at IIT Madras** and I'm **co-founder of QuantHunt**, incubated at **FITT, IIT Delhi**.
 
 My work sits where **post-quantum cryptography**, **drone telemetry security** and **AI data pipelines** meet. I build systems that defend critical infrastructure against today's exploits and tomorrow's quantum computers.
 
@@ -152,9 +152,9 @@ class AkulAttre:
 
 **Cyber Lab**<br/>
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,docker" /><br/>
-<img src="https://img.shields.io/badge/Post--Quantum_Crypto-00F5D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Post--Quantum_Crypto-FF1A1A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CycloneDX_CBOM-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TLS_Analysis-9B5DE5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TLS_Analysis-8B0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/IDS-1E90FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArduPilot_SITL-1A1A1A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Blue_Team-EA4335?style=for-the-badge" />
@@ -163,7 +163,7 @@ class AkulAttre:
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SHAP-9B5DE5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHAP-8B0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -175,12 +175,12 @@ class AkulAttre:
 ## 📊 Telemetry
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akulattre-31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=9b5de5" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akulattre-31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akulattre-31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF1A1A&icon_color=8B0000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akulattre-31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF1A1A" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akulattre-31&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=9b5de5&currStreakLabel=00f5d4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akulattre-31&theme=tokyonight&hide_border=true&background=0d1117&ring=FF1A1A&fire=8B0000&currStreakLabel=FF1A1A" />
 <br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akulattre-31&bg_color=0d1117&color=00f5d4&line=9b5de5&point=ffffff&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akulattre-31&bg_color=0d1117&color=FF1A1A&line=8B0000&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -195,8 +195,8 @@ akul@iitm-bcyber:~$ contact --now
 ```
 
 <a href="https://www.linkedin.com/in/akul-attre3105"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:quanthunt1@gmail.com"><img src="https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:akulattre@gmail.com"><img src="https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b5de5,50:00f5d4,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF1A1A,100:0d1117&height=120&section=footer" />
 
 </div>
