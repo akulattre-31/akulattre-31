@@ -46,7 +46,6 @@ class AkulAttre:
 | 🤖 | **1st Place, Robotics Olympiad**: UrjaSangam | Jan 2026 |
 | ⚡ | **Round 2, InsightX**: IIT Bombay Techfest | 2026 |
 | 🌍 | **Round 2, GO BRICS Energy-o-thon**: Phantom AI | 2026 |
-| 💧 | **Lead Developer, Smart India Hackathon 2025**: AquaSphere water intelligence | 2025 |
 
 </div>
 
